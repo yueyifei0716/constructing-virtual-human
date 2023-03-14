@@ -1,5 +1,7 @@
 # constructing-virtual-human
-
+- Constructed an intelligent virtual human using Unity3D, including the implementation of facial expressions, body movements, speech synthesis, and lip synchronization.
+- Developed a central decision-making system that integrates other virtual human functions, such as facial, speech, hand and body gesture recognition.
+- Implemented stable interaction between the virtual human and users, including calling a user by name and initiating conversations, playing the game of rock-paper-scissors, and engaging in basic conversation, resulting in a smooth and seamless experience.
 ## Requirement
 ### Requirement Elicitation
 - Questionnaires
